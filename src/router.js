@@ -1,6 +1,5 @@
 import Vue from "vue";
 import Router from "vue-router";
-import AreaRouter from "./views/AreaRouter.vue";
 
 import AdminArea from './views/_area/Admin'
 import DashboardArea from './views/_area/Dashboard'
